@@ -11,6 +11,15 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/metadata
 
+## 📂 File structure
+**HeartDataset.csv** File with data in csv format
+
+**HeartDiseaseProject.ipynb** Jupyter notebook file with  data preparation and model building 
+
+## 📈 Used algorithms
+* Logistic Regression
+* Decision Tree
+* Gradient Boost
 
 ## 💻 Tech Stack
 
@@ -20,7 +29,4 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 
 **Used modules:** Numpy, Pandas, Seaborn, Plotly, Matplotlib, Scikit-learn, Imblearn.
 
-## 📈 Used algorithms
-* Logistic Regression
-* Decision Tree
-* Gradient Boost
+
