@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/metadata
 
-## 📂 File structure
+## 📂 Files structure
 **HeartDataset.csv** File with data in csv format
 
 **HeartDiseaseProject.ipynb** Jupyter notebook file with  data preparation and model building 
